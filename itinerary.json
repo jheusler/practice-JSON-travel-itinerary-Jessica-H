@@ -1,0 +1,42 @@
+{
+  "tripName": "Pacific Northwest Adventure",
+  "traveler": {
+    "name": "Jessica Heusler",
+    "contact": {
+      "email": "jessica@example.com",
+      "phone": "555-0142"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Portland, Oregon",
+      "arrivalDate": "2026-09-12",
+      "departureDate": "2026-09-15",
+      "activities": [
+        {
+          "title": "Explore Powell's City of Books",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Visit the International Rose Test Garden",
+          "time": "2:30 PM"
+        }
+      ]
+    },
+    {
+      "location": "Seattle, Washington",
+      "arrivalDate": "2026-09-15",
+      "departureDate": "2026-09-19",
+      "activities": [
+        {
+          "title": "Breakfast at Pike Place Market",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Sunset at the Space Needle",
+          "time": "6:30 PM"
+        }
+      ]
+    }
+  ]
+}
