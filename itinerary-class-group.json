@@ -1,0 +1,27 @@
+{
+    "tripName": "California",
+    "traveler": {
+        "name": "Tyler",
+        "contact": {"email": "tyler@gmail.com", "phone": "123-456-7890"}
+    },
+    "destinations": [
+        {
+            "location": "San Francisco",
+            "arrivalDate": "2026-07-22",
+            "departureDate": "2026-07-25",
+            "activities": [
+                {"title": "cross the golden gate bridge", "time": "10:00 am"},
+                {"title": "visit coit tower", "time": "12:00 pm"}
+            ]
+        },
+        {
+            "location": "Los Angeles",
+            "arrivalDate": "2026-07-26",
+            "departureDate": "2026-07-28",
+            "activities": [
+                {"title": "see the hollywood sign", "time": "2:00 pm"},
+                {"title": "go to a dodgers game", "time": "7:15 pm"}
+            ]
+        }
+    ]
+}
